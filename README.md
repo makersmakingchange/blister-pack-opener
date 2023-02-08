@@ -49,16 +49,14 @@ All of the files and individual print files can be in the [/Build_Files/3D_Print
 | User Guide           | 1.0     | [Blister_Pack_Opener_User_Guide](/Documentation/Blister_Pack_Opener_User_Guide_V1.0.pdf)    |
 | Changelog            | 1.0     | [Blister_Pack_Opener_Changelog](/Documentation/Blister_Pack_Opener_Changelog_V1.0.pdf)     |
 
-### Design Files
-[CAD Files](/Design_Files)
 
 ### Build Files
  - [3D Printing Files](/Build_Files/3D_Printing_Files)
 
 ## Attribution
 Designers:
-	•Design by [IvyB](https://www.thingiverse.com/ivyb/designs) on thingiverse.com
-	•Documentation by Neil Squire Society/Makers Making Change
+	-Design by [IvyB](https://www.thingiverse.com/ivyb/designs) on thingiverse.com
+	-Documentation by Neil Squire Society/Makers Making Change
 
 
 ## License
