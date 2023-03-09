@@ -26,7 +26,7 @@ If you have the skills and equipment to build this device, and would like to don
 
 ### 1. Read the Makers Checklist
 
-The Makers Checklist 
+[The Makers Checklist](/Documentation/Blister_Pack_Opener_Maker_Checklist_V1.0.pdf)
 
 ### 2. Order the Off-The-Shelf Components
 
@@ -49,14 +49,15 @@ All of the files and individual print files can be in the [/Build_Files/3D_Print
 | User Guide           | 1.0     | [Blister_Pack_Opener_User_Guide](/Documentation/Blister_Pack_Opener_User_Guide_V1.0.pdf)    |
 | Changelog            | 1.0     | [Blister_Pack_Opener_Changelog](/Documentation/Blister_Pack_Opener_Changelog_V1.0.pdf)     |
 
+### Design Files
+ - [CAD Files](/Design_Files/CAD_Files)
 
 ### Build Files
  - [3D Printing Files](/Build_Files/3D_Printing_Files)
 
 ## Attribution
 Designers:
-	-Design by [IvyB](https://www.thingiverse.com/ivyb/designs) on thingiverse.com
-	-Documentation by Neil Squire Society/Makers Making Change
+	•Design and documentation by Neil Squire Society/Makers Making Change
 
 
 ## License
