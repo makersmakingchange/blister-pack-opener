@@ -4,9 +4,7 @@ The Blister Pack Opener is designed to help users with arthritis or limited hand
 <img src="Photos/blister-pack-opener.jpg" width="500" alt="Picture of Blister Pack Opener.">
 
 ## More info at
-- [Makers Making Change Project Page](https://makersmakingchange.com/project/blister-pack-opener/)
-- [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/blister-pack-opener/)
-
+- [Makers Making Change Project Page](https://www.makersmakingchange.com/s/product/blister-pack-opener/01tJR0000009H85YAE)
 
 ## How to Obtain a Blister Pack Opener
 ### 1. Do it Yourself (DIY) or Do it Together (DIT)
@@ -15,7 +13,7 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 2. Request a build of this device
 
-If you would like to obtain a Blister Pack Opener, you may submit a build request through the [MMC Library Page](https://makersmakingchange.com/project/blister-pack-opener/). The requestor is responsible for the cost of materials and any shipping.
+If you would like to obtain a Blister Pack Opener, you may submit a build request through the [MMC Library Page](https://www.makersmakingchange.com/s/product/blister-pack-opener/01tJR0000009H85YAE). The requestor is responsible for the cost of materials and any shipping.
 
 ### 3. How to build this device for someone else
 
@@ -56,8 +54,9 @@ All of the files and individual print files can be in the [/Build_Files/3D_Print
  - [3D Printing Files](/Build_Files/3D_Printing_Files)
 
 ## Attribution
+
 Designers:
-	•Design and documentation by Neil Squire Society/Makers Making Change
+ - Design and documentation by Neil Squire Society/Makers Making Change
 
 
 ## License
@@ -69,19 +68,20 @@ Accompanying material such as instruction manuals, videos, and other copyrightab
 ---
 
 ## About Makers Making Change
-<img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo">
+[<img src="https://raw.githubusercontent.com/makersmakingchange/makersmakingchange/main/img/mmc_logo.svg" width="500" alt="Makers Making Change Logo">](https://www.makersmakingchange.com/)
 
-Makers Making Change is an initiative of [Neil Squire](https://www.neilsquire.ca/), a Canadian non-profit that helps people with disabilities.
+Makers Making Change is a program of [Neil Squire](https://www.neilsquire.ca/), a Canadian non-profit that uses technology, knowledge, and passion to empower people with disabilities.
 
-We are committed to creating a network of volunteer makers who support people with disabilities in their communities through 3D printing assistive devices. Check out our library of free, open-source assistive technologies with parts and build instructions.
+Makers Making Change leverages the capacity of community based Makers, Disability Professionals and Volunteers to develop and deliver affordable Open Source Assistive Technologies.
 
  - Website: [www.MakersMakingChange.com](https://www.makersmakingchange.com/)
- - GitHub: [https://github.com/makersmakingchange](https://github.com/makersmakingchange)
- - Twitter: [@makermakechange](https://twitter.com/makermakechange)
+ - GitHub: [makersmakingchange](https://github.com/makersmakingchange)
+ - X (formerly Twitter): [@makermakechange](https://twitter.com/makermakechange)
  - Instagram: [@makersmakingchange](https://www.instagram.com/makersmakingchange)
+ - Facebook: [makersmakechange](https://www.facebook.com/makersmakechange)
+ - LinkedIn: [Neil Squire Society](https://www.linkedin.com/company/neil-squire-society/)
+ - Thingiverse: [makersmakingchange](https://www.thingiverse.com/makersmakingchange/about)
+ - Printables: [MakersMakingChange](https://www.printables.com/@MakersMakingChange)
 
-
-
-## Contact Us
-
-For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Website](https://www.makersmakingchange.com/), [MMC Forum](https://makersmakingchange.com/forum), or contact info@makersmakingchange.com
+### Contact Us
+For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.makersmakingchange.com/) or [contact us](https://www.makersmakingchange.com/s/contact).
